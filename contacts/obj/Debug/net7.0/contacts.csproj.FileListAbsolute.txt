@@ -1,0 +1,15 @@
+/Users/darinakhun/Projects/contacts/contacts/bin/Debug/net7.0/contacts
+/Users/darinakhun/Projects/contacts/contacts/bin/Debug/net7.0/contacts.deps.json
+/Users/darinakhun/Projects/contacts/contacts/bin/Debug/net7.0/contacts.runtimeconfig.json
+/Users/darinakhun/Projects/contacts/contacts/bin/Debug/net7.0/contacts.dll
+/Users/darinakhun/Projects/contacts/contacts/bin/Debug/net7.0/contacts.pdb
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/contacts.csproj.AssemblyReference.cache
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/contacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/contacts.AssemblyInfoInputs.cache
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/contacts.AssemblyInfo.cs
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/contacts.csproj.CoreCompileInputs.cache
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/contacts.dll
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/refint/contacts.dll
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/contacts.pdb
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/contacts.genruntimeconfig.cache
+/Users/darinakhun/Projects/contacts/contacts/obj/Debug/net7.0/ref/contacts.dll

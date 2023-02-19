@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/darinakhun/Projects/contacts/contacts/contacts.csproj": {}
+  },
+  "projects": {
+    "/Users/darinakhun/Projects/contacts/contacts/contacts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darinakhun/Projects/contacts/contacts/contacts.csproj",
+        "projectName": "contacts",
+        "projectPath": "/Users/darinakhun/Projects/contacts/contacts/contacts.csproj",
+        "packagesPath": "/Users/darinakhun/.nuget/packages/",
+        "outputPath": "/Users/darinakhun/Projects/contacts/contacts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darinakhun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
